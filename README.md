@@ -1,3 +1,5 @@
 # 6530250301.github.io
-- Kamolphop Panbunlue
-- Quar
+- Name : Kamolphop Panbunlue
+- Nickname : Quar
+- Age : 20
+- 
