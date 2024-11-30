@@ -8,6 +8,8 @@
 > - **Telephone** : 061-825-0755
 > - **E-mail** : squar@outlook.co.th
 
+---
+
 ## **BACKGROUND EDUCATION**
 > - **Elementary School** : Songvitaya School
 >> 2006 - 2015
