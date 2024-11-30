@@ -1,4 +1,3 @@
-# 6530250301.github.io
 ## PERSONAL INFO
 > - **Name** : Kamolphop Panbunlue
 > - **Nickname** : Quar
