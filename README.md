@@ -1,4 +1,4 @@
-<img src="https://github.com/L3b1-qw/6530250301.github.io/blob/1b02ce6a03fe08f31fae61491530ad9beb2c69fa/IMG_3678.JPG" 
+<img src="https://raw.githubusercontent.com/L3b1-qw/6530250301.github.io/main/IMG_3678.JPG" 
      alt="Person" style="height: 250px; width: 350px;" />
 
 <img src="https://raw.githubusercontent.com/L3b1-qw/6530250301.github.io/main/IMG_2876%20(1).jpg" 
