@@ -21,6 +21,6 @@
 - : การทดสอบโปรแกรมของตัวเองโดยใส่ค่า input หรือ การคลิกเช็คปุ่มที่สามารถทำงานได้ถูกต้องหรือไม่
 
 ## URL
-- : https://mater3214.github.io/Pasin.github.io/black-box-testing
+- : https://mater3214.github.io/black-box-testing
 
 - 6530250301 นายกมลภพ ปานบุญลือ
