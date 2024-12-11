@@ -1,4 +1,4 @@
-![person](mypicture/IMG_1473_Original.jpeg)
+![person](https://github.com/L3b1-qw/L3b1-qw.github.io/blob/8ae693ee06347f47a9e13400d4fd35c42bd3da08/image%20folder/IMG_3678.JPG)
 
 
 ## **PERSONAL INFO**
