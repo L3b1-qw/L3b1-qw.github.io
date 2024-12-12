@@ -5,7 +5,6 @@
 > - **Name** : Kamolphop Panbunlue  
 > - **Nickname** : Quar  
 > - **Age** : 20  
-> - **Telephone** : 061-825-0755  
 > - **E-mail** : squar@outlook.co.th  
 
 ---
