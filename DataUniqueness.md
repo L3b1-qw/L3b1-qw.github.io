@@ -13,9 +13,9 @@
 
 ## Sample
 > - การเก็บข้อมูลลูกค้าลงในฐานข้อมูลจะต้องกำหนด ID ของลูกค้าไม่ซ้ำกันหรือการกำหนด primary key เป็น customerID เช่น
-> - **CustomerID** : 001 "John"
-> - **CustomerID** : 002 "Ben"
-> - **CustomerID** : 003 "Jesse"
+> - CustomerID : 001        Name : "John"
+> - CustomerID : 002        Name : "Ben"
+> - CustomerID : 003        Name : "Jesse"
 
 ## Reference
 > - [https://www.simplilearn.com/data-quality-article](https://www.simplilearn.com/data-quality-article)
