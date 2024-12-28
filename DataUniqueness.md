@@ -1,11 +1,11 @@
 # TOPIC : Data Uniqueness
-## Definition
+## Definition by Simplilearn
 > - Uniqueness means that no duplications or redundant information are overlapping across all the datasets. No record in the dataset exists multiple times. Analysts use data cleansing and deduplication to help address a low uniqueness score
 
-## ChatGPT
+## Definition by ChatGPT
 > - Data uniqueness (ความเป็นเอกลักษณ์ของข้อมูล) หมายถึงลักษณะของข้อมูลที่ไม่ซ้ำกัน หรือไม่สามารถมีข้อมูลที่เหมือนกันในแต่ละหน่วยของข้อมูลในชุดข้อมูลนั้นๆ กล่าวคือ ทุกๆ ข้อมูลในชุดนั้นต้องมีค่าที่แตกต่างจากข้อมูลอื่นๆ เพื่อให้สามารถแยกแยะและระบุข้อมูลแต่ละตัวได้อย่างชัดเจน
 
-## Gemini
+## Definition by Gemini
 > - ความเป็นเอกลักษณ์ของข้อมูล (Data Uniqueness) คืออะไร?ความเป็นเอกลักษณ์ของข้อมูล หมายถึง คุณสมบัติที่ทำให้ข้อมูลแต่ละชิ้นมีความแตกต่างและไม่ซ้ำกันกับข้อมูลอื่นๆ ในชุดข้อมูลเดียวกัน เปรียบเสมือนลายนิ้วมือของแต่ละคน ที่มีเพียงหนึ่งเดียวในโลก
 
 ## My Summary
@@ -18,4 +18,4 @@
 > - CustomerID : 003        Name : "Jesse"
 
 ## Reference
-> - [https://www.simplilearn.com/data-quality-article](https://www.simplilearn.com/data-quality-article)
+> - [www.simplilearn.com](https://www.simplilearn.com/data-quality-article)
