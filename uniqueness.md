@@ -1,5 +1,8 @@
 # TOPIC : Data Uniqueness
-## Definition by Simplilearn
+## Source
+> - [www.simplilearn.com](https://www.simplilearn.com/data-quality-article)
+
+## Definition Uniqueness
 > - Uniqueness means that no duplications or redundant information are overlapping across all the datasets. No record in the dataset exists multiple times. Analysts use data cleansing and deduplication to help address a low uniqueness score
 
 ## Definition by ChatGPT
@@ -17,5 +20,4 @@
 > - CustomerID : 002        Name : "Ben"
 > - CustomerID : 003        Name : "Jesse"
 
-## Reference
-> - [www.simplilearn.com](https://www.simplilearn.com/data-quality-article)
+
