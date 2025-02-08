@@ -17,4 +17,4 @@ content.
 ## Members
 > - นายกมลภพ ปานบุญลือ 6503250301
 > - สตินทรี เพชรสุวรรณ 6530250239
-> - Satintree github 
+> - Satintree github : https://qwwwwioza.github.io/security-requirements
