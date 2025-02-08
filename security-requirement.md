@@ -1,6 +1,4 @@
 # TOPIC : 5.1.5 Input Validation
-## Source
-> - [www.simplilearn.com](https://www.simplilearn.com/data-quality-article)
 
 ## Definition 5.1.5 Input Validation
 > - Verify that URL redirects and forwards only allow destinations which appear
@@ -14,10 +12,4 @@ content.
 > - การตรวจสอบอินพุต (Input Validation) คือกระบวนการตรวจสอบข้อมูลที่ผู้ใช้ป้อนเข้ามาในระบบ เพื่อให้แน่ใจว่าข้อมูลนั้นถูกต้องตามรูปแบบที่กำหนดไว้ และปลอดภัยต่อการนำไปใช้งาน
 
 ## My Summary
-> - Data Uniqueness คือข้อมูลที่มีคุณสมบัติที่มีเอกลักษณ์ของตัวเองและไม่ซ้ำกับข้อมูลอื่นๆ โดยข้อมูลชนิดนี้จะไม่สามารถมีข้อมูลที่เหมือนหรือซ้ำกันได้
-
-## Sample
-> - การเก็บข้อมูลลูกค้าลงในฐานข้อมูลจะต้องกำหนด ID ของลูกค้าไม่ซ้ำกันหรือการกำหนด primary key เป็น customerID เช่น
-> - CustomerID : 001        Name : "John"
-> - CustomerID : 002        Name : "Ben"
-> - CustomerID : 003        Name : "Jesse"
+> - หมายถึงกระบวนการตรวจสอบก่อนที่จะทำการส่งหรือป้อนข้อมูลเพื่อเช็คว่าเป็นข้อมูลที่ถูกต้องหรือปลอดภัยหรือไม่
