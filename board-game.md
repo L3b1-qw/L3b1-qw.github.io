@@ -19,15 +19,15 @@
 
 **Activity Pictures** 🖼️
 
-![pic1](https://github.com/L3b1-qw/L3b1-qw.github.io/blob/a37449af7a396b39d702d4123878ab5869408779/image_folder/picture1.jfif)
+![pic1](image_folder/picture1.jfif)
 
-![pic2](https://github.com/L3b1-qw/L3b1-qw.github.io/blob/a37449af7a396b39d702d4123878ab5869408779/image_folder/picture2.png)
+![pic2](image_folder/picture2.png)
 
-![pic3](https://github.com/L3b1-qw/L3b1-qw.github.io/blob/a37449af7a396b39d702d4123878ab5869408779/image_folder/picture3.png)
+![pic3](image_folder/picture3.png)
 
 **Activity Video** 🎥
 
-[![pic4](https://github.com/L3b1-qw/L3b1-qw.github.io/blob/a37449af7a396b39d702d4123878ab5869408779/image_folder/picture4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
+[![pic4](image_folder/picture4.png)](https://drive.google.com/file/d/1HLKt8FE0QQgpJ3HYz0s5NFJ9HZj5L86G/view?usp=sharing)
 
 **Group** 🤼
 
