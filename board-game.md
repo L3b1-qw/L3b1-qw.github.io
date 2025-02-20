@@ -32,7 +32,7 @@
 **Group** 🤼
 
 - 1.[ kiadtiyod hongglin 6530250026 ](https://ProfesserSwitch.github.io/board-game) 
-- 2.[ kamolphop panbonolue](https://l3b1-qw.github.io/board-game) 
+- 2.[ kamolphop panboonlue 6530250301](https://l3b1-qw.github.io/board-game) 
 - 3.[ enter name ](https://name/board-game) 
 - 4.[ enter name ](https://name/board-game) 
 - 5.[ enter name ](https://name/board-gamee) 
