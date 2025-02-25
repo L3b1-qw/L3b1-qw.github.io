@@ -32,6 +32,6 @@
 **Group** 🤼
 
 - 1.[ 6530250026 kiadtiyod hongglin  ](https://ProfesserSwitch.github.io/board-game) 
-- 2.[ 6530250255 sintana suwannacond](https://copyyu.github.io/boardgame) 
-- 3.[ 6530250352 chayaphol jitnaphets ](https://sintana11.github.io/boardgame) 
+- 2.[ 6530250255 sintana suwannacond](https://sintana11.github.io/boardgame) 
+- 3.[ 6530250352 chayaphol jitnaphets ](https://copyyu.github.io/boardgame) 
 - 4.[ 6539250441 pasin harnkham ](https://mater3214.github.io/boardgame) 
